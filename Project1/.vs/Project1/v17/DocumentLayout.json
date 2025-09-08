@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8A97C8A-C36D-4E7C-A2D8-DE839DD56773}|Project1\\Project1.vcxproj|C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Project1\\Project1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D8A97C8A-C36D-4E7C-A2D8-DE839DD56773}|Project1\\Project1.vcxproj|solutionrelative:Project1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\choi project1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,10 +19,10 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FileName.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Project1\\Project1\\FileName.cpp",
-              "RelativeDocumentMoniker": "Project1\\FileName.cpp",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Project1\\Project1\\FileName.cpp*",
-              "RelativeToolTip": "Project1\\FileName.cpp*",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\choi project1\\FileName.cpp",
+              "RelativeDocumentMoniker": "..\\choi project1\\FileName.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\choi project1\\FileName.cpp",
+              "RelativeToolTip": "..\\choi project1\\FileName.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-08T06:14:58.334Z",
