@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Project 250922 C.B\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9B31288D-3A30-4B81-BDE1-BF1A4C5AD57C}|Project2\\Project2.vcxproj|C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Project 250922 C.B\\Project2\\0922-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B31288D-3A30-4B81-BDE1-BF1A4C5AD57C}|Project2\\Project2.vcxproj|solutionrelative:Project2\\0922-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B31288D-3A30-4B81-BDE1-BF1A4C5AD57C}|Project2\\Project2.vcxproj|C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Project 250922 C.B\\Project2\\0922.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9B31288D-3A30-4B81-BDE1-BF1A4C5AD57C}|Project2\\Project2.vcxproj|solutionrelative:Project2\\0922.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,46 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "0922-2.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Project 250922 C.B\\Project2\\0922-2.cpp",
+              "RelativeDocumentMoniker": "Project2\\0922-2.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Project 250922 C.B\\Project2\\0922-2.cpp",
+              "RelativeToolTip": "Project2\\0922-2.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-22T07:09:59.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "d8a10ec9-afbb-4591-8a78-5006a83beb72",
+        "Display": 0,
+        "X": 212,
+        "Y": 58,
+        "Width": 1578,
+        "Height": 792,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "0922.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Project 250922 C.B\\Project2\\0922.cpp",
               "RelativeDocumentMoniker": "Project2\\0922.cpp",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Project 250922 C.B\\Project2\\0922.cpp*",
-              "RelativeToolTip": "Project2\\0922.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Project 250922 C.B\\Project2\\0922.cpp",
+              "RelativeToolTip": "Project2\\0922.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-22T06:17:01.02Z",
               "EditorCaption": ""

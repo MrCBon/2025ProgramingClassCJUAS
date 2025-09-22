@@ -1,2 +1,2 @@
-﻿  0922.cpp
-  Project2.vcxproj -> C:\Users\User\Documents\GitHub\2025ProgramingClassCJUAS\Project 250922 C.B\x64\Debug\Project2.exe
+﻿0922.obj : error LNK2005: main이(가) 0922-2.obj에 이미 정의되어 있습니다.
+C:\Users\User\Documents\GitHub\2025ProgramingClassCJUAS\Project 250922 C.B\x64\Debug\Project2.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
