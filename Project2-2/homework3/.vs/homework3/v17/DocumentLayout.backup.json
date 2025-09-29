@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Project2-2\\homework3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75813B07-651C-46C4-983C-EAF0DF11EFA7}|homework3\\homework3.vcxproj|C:\\Users\\user\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Project2-2\\homework3\\homework3\\1-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75813B07-651C-46C4-983C-EAF0DF11EFA7}|homework3\\homework3.vcxproj|solutionrelative:homework3\\1-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1-3.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Project2-2\\homework3\\homework3\\1-3.cpp",
+              "RelativeDocumentMoniker": "homework3\\1-3.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Project2-2\\homework3\\homework3\\1-3.cpp*",
+              "RelativeToolTip": "homework3\\1-3.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-23T13:59:41.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
