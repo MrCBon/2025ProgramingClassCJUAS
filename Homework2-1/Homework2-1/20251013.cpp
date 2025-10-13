@@ -22,9 +22,8 @@ int main(void)
 	printf("몸무게(kg)를 입력하세요: ");
 	scanf("%lf", &weight);
 
-	BMI = weight / (height * height);
+	BMI = weight / ((height / 100) * (height / 100));
 
-	printf("\n");
 	printf("이름: %s \n", name);
 	printf("학번: %d\n", student_ID);
 	printf("키: %.2lf\n", height);
