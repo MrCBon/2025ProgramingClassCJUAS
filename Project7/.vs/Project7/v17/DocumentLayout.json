@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Project7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEDF4C8-75D7-4C46-A0D9-1ED55378EEEF}|Project7\\Project7.vcxproj|C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Project7\\Project7\\7-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BEDF4C8-75D7-4C46-A0D9-1ED55378EEEF}|Project7\\Project7.vcxproj|solutionrelative:Project7\\7-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "7-1.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Project7\\Project7\\7-1.cpp",
+              "RelativeDocumentMoniker": "Project7\\7-1.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Project7\\Project7\\7-1.cpp*",
+              "RelativeToolTip": "Project7\\7-1.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-27T07:40:39.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
