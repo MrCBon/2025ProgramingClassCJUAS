@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Practice#2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC3166A0-C7A8-48EB-9BA1-78E9BAF09381}|Practice#2\\Practice#2.vcxproj|C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Practice#2\\Practice#2\\2-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AC3166A0-C7A8-48EB-9BA1-78E9BAF09381}|Practice#2\\Practice#2.vcxproj|solutionrelative:Practice#2\\2-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AC3166A0-C7A8-48EB-9BA1-78E9BAF09381}|Practice#2\\Practice#2.vcxproj|C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Practice#2\\Practice#2\\Prac2-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC3166A0-C7A8-48EB-9BA1-78E9BAF09381}|Practice#2\\Practice#2.vcxproj|solutionrelative:Practice#2\\Prac2-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "2-3.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Practice#2\\Practice#2\\2-3.cpp",
-              "RelativeDocumentMoniker": "Practice#2\\2-3.cpp",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Practice#2\\Practice#2\\2-3.cpp*",
-              "RelativeToolTip": "Practice#2\\2-3.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Title": "Prac2-1.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Practice#2\\Practice#2\\Prac2-1.cpp",
+              "RelativeDocumentMoniker": "Practice#2\\Prac2-1.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Practice#2\\Practice#2\\Prac2-1.cpp",
+              "RelativeToolTip": "Practice#2\\Prac2-1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-27T09:57:39.183Z",
+              "WhenOpened": "2025-10-27T10:49:03.84Z",
               "EditorCaption": ""
             }
           ]

@@ -1,39 +1,51 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
+double calculate(double num1, double num2, char op);
+
 int main(void)
 {
-    double num1, num2;
+    double num1, num2, result;
     char op;
 
     printf("사칙연산을 입력하시오 (예: 3+5): ");
     scanf("%lf %c %lf", &num1, &op, &num2);
 
-    switch (op) {
-    case '+':
-        printf("결과: %.2lf\n", num1 + num2);
-        break;
-    case '-':
-        printf("결과: %.2lf\n", num1 - num2);
-        break;
-    case '*':
-        printf("결과: %.2lf\n", num1 * num2);
-        break;
-    case '/':
-        if (num2 != 0)
-            printf("결과: %.2lf\n", num1 / num2);
-        else
-            printf("0으로 나눌 수 없습니다.\n");
-        break;
-    case '%':
-        if ((int)num2 != 0)
-            printf("결과: %d\n", (int)num1 % (int)num2);
-        else
-            printf("0으로 나눌 수 없습니다.\n");
-        break;
-    default:
-        printf("잘못된 연산자입니다.\n");
-    }
+    result = calculate(num1, num2, op);
+
+    if (op == '%')
+        printf("결과: %d\n", (int)result);
+    else
+        printf("결과: %.2lf\n", result);
 
     return 0;
+}
+
+double calculate(double num1, double num2, char op)
+{
+    switch (op) {
+    case '+':
+        return num1 + num2;
+    case '-':
+        return num1 - num2;
+    case '*':
+        return num1 * num2;
+    case '/':
+        if (num2 != 0)
+            return num1 / num2;
+        else {
+            printf("0으로 나눌 수 없습니다.\n");
+            return 0;
+        }
+    case '%':
+        if ((int)num2 != 0)
+            return (int)num1 % (int)num2;
+        else {
+            printf("0으로 나눌 수 없습니다.\n");
+            return 0;
+        }
+    default:
+        printf("잘못된 연산자입니다.\n");
+        return 0;
+    }
 }
