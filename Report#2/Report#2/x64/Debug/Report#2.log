@@ -1,0 +1,5 @@
+﻿  2-4.cpp
+C:\Users\user\Documents\GitHub\2025ProgramingClassCJUAS\Report#2\Report#2\2-4.cpp(7,15): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\Documents\GitHub\2025ProgramingClassCJUAS\Report#2\Report#2\2-4.cpp(7,27): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\Documents\GitHub\2025ProgramingClassCJUAS\Report#2\Report#2\2-4.cpp(7,41): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  Report#2.vcxproj -> C:\Users\user\Documents\GitHub\2025ProgramingClassCJUAS\Report#2\x64\Debug\Report#2.exe
