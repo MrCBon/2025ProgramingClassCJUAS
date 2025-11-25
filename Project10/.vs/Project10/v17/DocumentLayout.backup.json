@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Project10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A7680A-0BAC-4409-ABD9-567F9C7DAFCA}|Project10\\Project10.vcxproj|C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Project10\\Project10\\Pointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5A7680A-0BAC-4409-ABD9-567F9C7DAFCA}|Project10\\Project10.vcxproj|solutionrelative:Project10\\Pointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pointer.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Project10\\Project10\\Pointer.cpp",
+              "RelativeDocumentMoniker": "Project10\\Pointer.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Project10\\Project10\\Pointer.cpp*",
+              "RelativeToolTip": "Project10\\Pointer.cpp*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-19T00:17:20.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
