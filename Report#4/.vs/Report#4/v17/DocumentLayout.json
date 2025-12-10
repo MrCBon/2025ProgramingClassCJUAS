@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Report#4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76C0511D-2922-477C-AFBA-0963C9C1BC69}|Report#4\\Report#4.vcxproj|C:\\Users\\user\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Report#4\\Report#4\\4-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76C0511D-2922-477C-AFBA-0963C9C1BC69}|Report#4\\Report#4.vcxproj|solutionrelative:Report#4\\4-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4-4.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Report#4\\Report#4\\4-4.cpp",
+              "RelativeDocumentMoniker": "Report#4\\4-4.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\2025ProgramingClassCJUAS\\Report#4\\Report#4\\4-4.cpp*",
+              "RelativeToolTip": "Report#4\\4-4.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-25T19:43:04.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
